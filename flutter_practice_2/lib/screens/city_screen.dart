@@ -1,6 +1,9 @@
+// ignore_for_file: library_private_types_in_public_api
+
 import 'package:flutter/material.dart';
 import '../utilities/constants.dart';
 
+// ignore: use_key_in_widget_constructors
 class CityScreen extends StatefulWidget {
   @override
   _CityScreenState createState() => _CityScreenState();
